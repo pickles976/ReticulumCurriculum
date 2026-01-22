@@ -246,3 +246,5 @@ sudo usermod -a -G dialout $USER
 - [Meshchat GitHub](https://github.com/liamcottle/reticulum-meshchat)
 - [Nomadnet GitHub](https://github.com/markqvist/NomadNet)
 - [Sideband (Mobile App)](https://github.com/markqvist/Sideband)
+- [Reticulum Network Map](https://rmap.world/)
+- [Reticulum IP Backbones](https://directory.rns.recipes/)
