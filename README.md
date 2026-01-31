@@ -10,7 +10,7 @@ Install Reticulum and add yourself to the dialout group:
 
 ```bash
 pip install rns rnodeconf
-sudo usermod -a -G dialout $USER
+sudo usermod -aG dialout $USER
 ```
 
 **Log out and back in** for group changes to take effect.
