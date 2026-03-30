@@ -10,7 +10,7 @@ Install Reticulum and add yourself to the dialout group:
 
 ```bash
 pip install rns rnodeconf
-sudo usermod -a -G dialout $USER
+sudo usermod -aG dialout $USER
 ```
 
 **Log out and back in** for group changes to take effect.
@@ -248,3 +248,5 @@ sudo usermod -a -G dialout $USER
 - [Sideband (Mobile App)](https://github.com/markqvist/Sideband)
 - [Reticulum Network Map](https://rmap.world/)
 - [Reticulum IP Backbones](https://directory.rns.recipes/)
+
+
